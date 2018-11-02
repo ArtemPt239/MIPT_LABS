@@ -72,9 +72,14 @@ clearvars data raw I;
 %%
 scatter(vac0.V_1, vac0.I_p);
 hold on
-xlabel("V_1 [V]");
-ylabel("I_p [mA]");
+make_fancy("V_1 [V]","I_p [mA]","Volt-amper characterestic of glow discharge");
+print('PlotVAC','-dpng', '-r300');
 hold off
 %%
-myProcess(vac5)
+vac4 = myImport("4");
 %%
+myProcess(vac5,"5");
+%%
+myProcess(vac3,'3')
+%%
+myProcess(vac4,'4');
