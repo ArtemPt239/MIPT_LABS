@@ -80,6 +80,6 @@ vac4 = myImport("4");
 %%
 myProcess(vac5,"5");
 %%
-myProcess(vac3,'3')
+myProcess(vac3,'3');
 %%
 myProcess(vac4,'4');
