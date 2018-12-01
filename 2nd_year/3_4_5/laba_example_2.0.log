@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.4)  30 NOV 2018 10:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.4)  30 NOV 2018 11:49
 entering extended mode
 **./laba_example_2.0.tex
 (laba_example_2.0.tex
@@ -758,32 +758,36 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmargin=\skip54
 \droptitle=\skip55
 )
-(laba_example_2.0.aux)
+(laba_example_2.0.aux
+
+LaTeX Warning: Label `schema' multiply defined.
+
+)
 \openout1 = `laba_example_2.0.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Info: Redefining \celsius on input line 30.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Info: Redefining \celsius on input line 34.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 34.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 30.
-Package gensymb Info: Using \Omega for \ohm on input line 30.
+LaTeX Info: Redefining \ohm on input line 34.
+Package gensymb Info: Using \Omega for \ohm on input line 34.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -882,50 +886,62 @@ G,.JBIG2,.JB2,.eps]
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 33.
+LaTeX Font Info:    Try loading font information for U+msa on input line 37.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 33.
+LaTeX Font Info:    Try loading font information for U+msb on input line 37.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+wasy on input line 33.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 37.
 
 (C:\Users\Артем\AppData\Roaming\MiKTeX\2.9\tex\latex\wasysym\uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 32--35
-[][] 
- []
+<scheme.png, id=1, 685.8122pt x 379.4175pt>
+File: scheme.png Graphic file (type png)
+<use scheme.png>
+Package pdftex.def Info: scheme.png  used on input line 60.
+(pdftex.def)             Requested size: 398.33858pt x 220.3807pt.
+<Ferrit.jpg, id=3, 1349.04pt x 1136.245pt>
+File: Ferrit.jpg Graphic file (type jpg)
+<use Ferrit.jpg>
+Package pdftex.def Info: Ferrit.jpg  used on input line 109.
+(pdftex.def)             Requested size: 284.52756pt x 239.6414pt.
 
 [1
 
-{C:/Users/Артем/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(laba_example_2.0.aux) ) 
+{C:/Users/Артем/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./sche
+me.png>] [2 <./Ferrit.jpg>] [3] (laba_example_2.0.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5260 strings out of 493303
- 68555 string characters out of 3138842
- 143500 words of memory out of 3000000
- 8686 multiletter control sequences out of 15000+200000
- 16218 words of font info for 54 fonts, out of 3000000 for 9000
+ 5277 strings out of 493303
+ 68751 string characters out of 3138842
+ 143747 words of memory out of 3000000
+ 8697 multiletter control sequences out of 15000+200000
+ 17824 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,25p,319b,258s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Артем\AppData\Local\MiKTeX\2.9\fonts\pk
-\ljfour\lh\lh-t2a\dpi600\larm1200.pk> <C:\Users\Артем\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\Артем\AppData
-\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\Ар�
-�ем\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk> <C
-:\Users\Артем\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
-rm2074.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on laba_example_2.0.pdf (1 page, 95784 bytes).
+ 41i,8n,25p,946b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Артем\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi6
+00\larm0800.pk> <C:\Users\Артем\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
+h\lh-t2a\dpi600\labx1200.pk> <C:\Users\Артем\AppData\Local\MiKTeX\2.9\font
+s\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk> <C:\Users\Артем\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\Артем\App
+Data\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk> <C:\Users\�
+�ртем\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm2074.pk
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on laba_example_2.0.pdf (3 pages, 484052 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
+ 213 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
